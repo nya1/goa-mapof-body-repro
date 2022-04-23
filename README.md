@@ -1,4 +1,6 @@
 
+goa version 3.7.2
+
 [Design](./design/design.go)
 
 The field name `anyobject` with Attribute `MapOf(String, Any)` should describe
